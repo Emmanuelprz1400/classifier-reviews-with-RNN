@@ -1,6 +1,6 @@
 # classifier-reviews-with-RNN
 
-**RNN**: Significa Red Beuronal Recurrente. Es un tipo de red neuronal artificial que utiliza datos secuenciales o datos de series de tiempo. Estos algoritmos de aprendizaje profundo se utilizan comúnmente para problemas ordinales o temporales, como traducción de idiomas, procesamiento del lenguaje natural (nlp), reconocimiento de voz y subtítulos de imágenes; están incorporados en aplicaciones populares como Siri, búsqueda por voz y Google Translate. Más información en este [link](https://aws.amazon.com/es/what-is/recurrent-neural-network/).
+**RNN**: Significa Red Neuronal Recurrente. Es un tipo de red neuronal artificial que utiliza datos secuenciales o datos de series de tiempo. Estos algoritmos de aprendizaje profundo se utilizan comúnmente para problemas ordinales o temporales, como traducción de idiomas, procesamiento del lenguaje natural (nlp), reconocimiento de voz y subtítulos de imágenes; están incorporados en aplicaciones populares como Siri, búsqueda por voz y Google Translate. Más información en este [link](https://aws.amazon.com/es/what-is/recurrent-neural-network/).
 
 Este corpus contiene:
 
